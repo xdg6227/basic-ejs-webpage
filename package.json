@@ -1,0 +1,31 @@
+{
+  "name": "basic-ejs-webpage",
+  "version": "1.0.0",
+  "description": "A basic ready-to-use ejs webpage!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdg6227/basic-ejs-webpage.git"
+  },
+  "keywords": [
+    "ejs",
+    "webpage",
+    "website",
+    "template",
+    "basic"
+  ],
+  "author": "xdg6227",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xdg6227/basic-ejs-webpage/issues"
+  },
+  "homepage": "https://github.com/xdg6227/basic-ejs-webpage#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
